@@ -11,6 +11,9 @@ namespace IO.Swagger.Model
         Run,
         Ride,
         Walk,
-        Hike
+        Hike,
+        Wheelchair,
+        Workout,
+        NordicSki
     }
 }
